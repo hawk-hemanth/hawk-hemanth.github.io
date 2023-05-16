@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://github.hawk-hemanth
+> https://hawk-hemanth.github.io/
 
 
 ## Features 📋
